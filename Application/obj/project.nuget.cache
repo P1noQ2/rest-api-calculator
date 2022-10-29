@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxS8oF9jR5/P1jyfIRTtUCB4eIMM8GOc9I12zUD2m/RW3xgg9XlSsBEl+Fbp/nq2Sk6uA8cJQDZ5jjHFVcVgAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\youse\\source\\repos\\Calculator Exercise\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\youse\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
